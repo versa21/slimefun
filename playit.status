@@ -1,2689 +1,52 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409502275 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414334047 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409505345 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414337105 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409520436 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409523500 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409526557 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409541659 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409544730 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409559850 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409562918 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409578047 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409581133 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409584199 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409599287 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409602361 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409617476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409620558 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409635667 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409638728 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409653830 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409668940 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409672021 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409687145 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409690220 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409705335 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409708437 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409723538 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409738635 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409741706 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409756820 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409771920 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409774991 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409790127 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409805244 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409820363 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409823431 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409838537 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409841604 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409856726 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409859791 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409874905 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409890033 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409893094 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409908188 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409911263 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409926370 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409941460 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409944525 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409959649 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409962742 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409971859 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409974918 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725409978000 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725409993109 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410008220 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410011291 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410026411 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410041503 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410044586 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410059691 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410074801 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410077875 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410092982 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410108110 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410111169 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410126262 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410141358 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410144436 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410159542 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410162611 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410177714 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410180777 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410195887 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410210977 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410226114 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410229168 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410244278 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410259382 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410262443 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410277545 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410280606 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410295699 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410310814 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410313886 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410328988 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410344087 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410347146 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410362237 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410365305 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410380412 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410395522 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410410626 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410413709 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410428808 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410431881 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410459006 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410462079 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410477190 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410492298 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410495383 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410510484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410525593 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410528665 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410543766 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410558880 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410561941 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410577091 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410592194 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410595263 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410610366 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410613436 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410628536 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410643629 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410658725 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410661793 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410676891 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410680022 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410683087 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410698179 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410713316 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410716476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410731574 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410746701 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410761794 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410776899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410779961 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410795096 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410810224 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410825332 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410840481 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410843546 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410858653 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410873791 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410888902 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410892029 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410907142 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410922322 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410925398 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410940511 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410943586 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410958706 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410961778 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410976930 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725410992048 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725410995114 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411010221 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411025335 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411040439 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411043524 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411058654 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411061731 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411076831 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411091946 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411095015 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411110118 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411113212 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411128319 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411143418 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411146476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411161707 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411176810 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411179883 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411194999 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411210099 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411213169 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411228276 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411243369 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411246427 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411261519 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411276606 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411279667 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411294758 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411309882 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411312942 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411328045 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411331108 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411346244 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411361337 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411364405 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411379514 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411394607 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411409700 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411412766 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411427867 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411430934 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411446113 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411461211 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411464273 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411479382 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411494493 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411509601 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411512664 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411527763 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411542870 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411545937 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411561037 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411564098 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411579215 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411594332 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411597473 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411612580 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411627675 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411630735 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411645848 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411648927 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411664012 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411679099 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411682156 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411697237 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411712320 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411715414 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411730508 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411733573 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411748667 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411763757 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411778850 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411781911 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411797016 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411800090 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411815181 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411830284 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411833362 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411848484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411863570 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411866629 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411881718 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411896819 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411899877 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411914957 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411930054 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411933134 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411948237 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411951315 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411966414 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411981531 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725411984596 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725411999699 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412014819 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412029923 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412032992 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412048120 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412051184 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412066286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412069353 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412084458 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412099564 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412102628 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412117728 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412132845 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412147958 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412151033 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412166141 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412169209 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412184322 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412199418 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412202545 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412217660 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412232761 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412235825 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412250925 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412266060 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412269165 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412284277 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412299413 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412302473 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412317591 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412320716 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412335812 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412350907 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412353965 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412369081 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412372142 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412387229 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412402324 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412405400 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412420493 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412423589 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412426668 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412429738 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412432812 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412435888 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412438959 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412442047 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412445113 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412454203 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412457261 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412472366 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412475426 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412490532 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412505653 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412508715 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412523808 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412538940 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412542017 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412557113 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412560175 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412575320 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412578375 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412593476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412608591 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412623682 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412638819 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412641879 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412657030 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412672125 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412675232 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412690332 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412693408 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412708504 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412711563 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412726738 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412741837 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412744899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412759999 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412763075 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412778167 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412793279 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412808373 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412811432 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412826533 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412841623 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412844683 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412859805 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412874907 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412877967 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412893069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412896149 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412911297 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412926419 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412941525 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412944593 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412959708 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412962789 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412977877 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725412992984 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725412996050 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413011146 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413014211 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413029312 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413032367 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413047478 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413062571 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413077665 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413080726 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413095826 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413111000 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413114062 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413129164 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413132242 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413147346 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413162448 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413165508 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413180617 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413183688 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413198774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413201852 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413216950 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413220020 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413223085 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413238213 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413241282 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413256377 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413259437 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413262500 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413277598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413280665 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413283729 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413298837 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413301903 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413316994 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413320067 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413323149 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413338259 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413341339 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413344398 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413359500 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413362573 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413365636 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413380732 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413383791 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413386853 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413401954 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413405017 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413408105 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413423210 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413426266 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413441377 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413444437 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414340167 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413459530 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413462598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413465650 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413480756 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414343242 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413483889 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414346345 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413498988 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414349407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413502050 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414352486 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413505123 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414355546 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413520244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414358626 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413523314 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414361689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2691,79 +54,62 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413538400 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414376792 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413541453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414379852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413544520 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414382928 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413559618 tunnel running, 1 tunnels registered
-
+[2J8[0mplayit (v0.15.23): 1725414385989 tunnel running, 1 tunnels registered
 
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413562688 tunnel running, 1 tunnels registered
 
-
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413565745 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414389050 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413580857 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414392126 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413583911 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414395188 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413598993 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414398253 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413602055 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414401313 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413617148 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414404378 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413620215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414407465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413623275 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414410536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2771,30 +117,27 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413638352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414425636 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413641451 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414428699 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413644534 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414431798 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413659659 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414434868 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413662725 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414437932 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2802,97 +145,72 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413677830 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413680900 tunnel running, 1 tunnels registered
-
+[2J8[0mplayit (v0.15.23): 1725414453035 tunnel running, 1 tunnels registered
 
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413683974 tunnel running, 1 tunnels registered
 
-
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413699130 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414456097 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413702219 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414459154 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413705288 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414462216 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413720410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414465365 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413723473 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414468426 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413738576 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414471485 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413741638 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414474551 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413744712 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414477613 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413759816 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414480685 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413762900 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414483751 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413765962 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414486813 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413781105 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414489875 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413784183 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414492952 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2900,17 +218,12 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413799275 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413802342 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414508067 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413805403 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414511146 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2918,44 +231,27 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413820508 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413823577 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413826639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414526278 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-rd.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413301253 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414529343 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413316354 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414532418 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413319419 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414535482 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413322492 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414538537 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2963,17 +259,12 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413337623 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413340679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414553630 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413343736 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414556700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2981,17 +272,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413358864 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414571814 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413361936 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414574879 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413364994 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414577940 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2999,66 +290,43 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413380103 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414593040 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413383191 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414596106 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413386260 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413401363 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413404428 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414611244 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413407494 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414614362 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413422622 tunnel running, 1 tunnels registered
-
+[2J8[0mplayit (v0.15.23): 1725414617440 tunnel running, 1 tunnels registered
 
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413425684 tunnel running, 1 tunnels registered
 
-
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413440777 tunnel running, 1 tunnels registered
-
+[2J8[0mplayit (v0.15.23): 1725414632549 tunnel running, 1 tunnels registered
 
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413443858 tunnel running, 1 tunnels registered
 
-
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413446929 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414635612 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3066,25 +334,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413462036 tunnel running, 1 tunnels registered
-
+[2J8[0mplayit (v0.15.23): 1725414650708 tunnel running, 1 tunnels registered
 
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413465100 tunnel running, 1 tunnels registered
 
-
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413480198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414653776 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413483260 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414656842 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3092,30 +352,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413498371 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413501477 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413504540 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414671941 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413519647 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414674998 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413522716 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414678061 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3123,17 +370,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413537815 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414693208 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413540871 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414696297 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413543951 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414699355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3141,17 +388,12 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413559075 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413562153 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414714467 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413565218 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414717534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3159,25 +401,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413580317 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413583424 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414732636 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413598530 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414735708 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413601598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414738781 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3185,35 +419,30 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413616705 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414753884 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413619763 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414756950 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413622823 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413637971 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414772050 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413641032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414775114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413644094 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414778182 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3221,12 +450,12 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413659189 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414793301 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413662251 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414796366 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3234,17 +463,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413677370 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414811492 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413680431 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414814583 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413683505 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414817660 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3252,17 +481,12 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413698604 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413701674 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414832802 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413704764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414835865 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3270,17 +494,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413719881 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414850961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413722944 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414854037 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413725998 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414857104 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3288,17 +512,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413741091 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414872218 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413744151 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414875303 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413747220 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414878367 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3306,43 +530,17 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413762308 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414893456 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413765372 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414896522 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413780495 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413783560 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413786623 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413801727 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413804791 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414899607 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -3350,21 +548,8 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413819890 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413822967 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1725413826024 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725414914709 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
