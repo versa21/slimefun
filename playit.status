@@ -2851,13 +2851,12 @@ thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-ad latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1725413198117 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725413738576 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 thing-stanford.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rd.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mplayit (v0.15.23): 1725413201193 tunnel running, 1 tunnels registered
 
 
